@@ -40,25 +40,25 @@ $(document).ready(function(){
  				"background":"url(../images/home2_normal.png)",
  				"background-size": "32px",
 				"background-repeat": "no-repeat",
-				 "background-color": iconcolor
+				 "background-color": iconcolor[6]
  			});
  			$(".menu-icon-2").css({
  				"background":"url(../images/apps4_normal.png)",
  				"background-size": "32px",
 				"background-repeat": "no-repeat",
-				"background-color": iconcolor
+				"background-color": iconcolor[6]
  			});
  			$(".menu-icon-3").css({
  				"background":"url(../images/info_normal.png)",
  				"background-size": "32px",
 				"background-repeat": "no-repeat",
-				"background-color": iconcolor
+				"background-color": iconcolor[6]
  			});
  			$(".menu-icon-4").css({
  				"background":"url(../images/move_normal.png)",
  				"background-size": "32px",
 				"background-repeat": "no-repeat",
-				"background-color": iconcolor
+				"background-color": iconcolor[6]
  			});
  			$(".myCanvas-li").css({
  				"right":"30px",
